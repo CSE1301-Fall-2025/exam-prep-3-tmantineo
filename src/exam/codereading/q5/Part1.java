@@ -20,3 +20,9 @@ public class Part1 {
 		}
 	}
 }
+
+// index = 3 - b
+// index = 4 - e
+// indext = 0 - a 
+// index = 1 - b
+// index = 3 = d

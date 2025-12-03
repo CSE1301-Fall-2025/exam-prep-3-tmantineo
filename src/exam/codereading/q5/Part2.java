@@ -23,3 +23,9 @@ public class Part2 {
 		}
 	}
 }
+// x=1 y=hi > y=earth x=4
+// x=4 y=wind x=2
+// x=2 y=water x = 3
+// x=3 y=fire x=0 
+// x=0 y=heart x=null
+//earth, wind, water, fire, heart
