@@ -30,16 +30,12 @@ public class Dormitory
 	}
 	public static void main(String[] args) {
 		 // Create a Dormitory object
-    Dormitory dorm = new Dormitory("Oak Hall");
 
     // Create a Student object
-    Student alice = new Student("Alice", 123456);
 
     // Add the student to a room
-    dorm.addStudent("204H", alice);
 
     // Check if student ID 123456 exists
-    boolean found = dorm.getStudentIds().contains(123456);
-    System.out.println("Student 123456 in dorm? " + found);
+
 	}
 }
